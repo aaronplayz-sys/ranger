@@ -6,9 +6,14 @@
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/aaronplayz-sys/ranger">
 </p>
 
-# Ranger
+# Ranger | BAREBONES VERSION
 
-An open source discord bot written in NodeJS.
+An open source discord bot written in NodeJS. HOWEVER, in the bare bones branch it only contains a more stripped down code. This branch mainly serves to enchance the bots core.
+
+## Changelog:
+* +| Created branch (Bare-Bones)
+* +| Added files
+* !| Slash command handler not working
 
 ***
 ## Status: Development Stage
