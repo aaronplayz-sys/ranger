@@ -11,18 +11,22 @@
 An open source discord bot written in NodeJS. HOWEVER, in the bare bones branch it only contains a more stripped down code. This branch mainly serves to enchance the bots core.
 
 ## Changelog:
-* +| Created branch (Bare-Bones)
-* +| Added files
-* !| Slash command handler not working
+* NOTICE| 100% change in file structure
+* NOTICE| Still NodeJS, but uses TypeScript
+* +| Supports both slash (/) and legacy commands (!)
+* +| ping command is provided as a starting point
 
 ***
 ## Status: Development Stage
 ***
 ## Required dependencies
-* ascii-tabe: ^0.0.9
-* discord.js: ^13.6.0
-* glob: ^7.2.0
-* Node.JS V16.13.2 (Minimum)
+* discord.js: ^13.7.0
+* dotenv: ^16.0.1
+* wokcommands ^1.5.3
+* Node.JS V18.2.0 (Minimum)
+
+## Help
+[Creating commands][https://docs.wornoffkeys.com/commands/ping-pong-command-example]
 
 ## Installation
 Coming soon
