@@ -26,7 +26,7 @@ An open source discord bot written in NodeJS. HOWEVER, in the bare bones branch 
 * Node.JS V18.2.0 (Minimum)
 
 ## Help
-[Creating commands][https://docs.wornoffkeys.com/commands/ping-pong-command-example]
+[Creating commands](https://docs.wornoffkeys.com/commands/ping-pong-command-example)
 
 ## Installation
 Coming soon
