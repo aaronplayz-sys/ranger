@@ -8,16 +8,16 @@
 
 # Ranger
 
-An open source discord bot written in NodeJS.
+An open source discord bot written in NodeJS(TypeScript).
 
 ***
 ## Status: Development Stage
 ***
 ## Required dependencies
-* ascii-tabe: ^0.0.9
-* discord.js: ^13.6.0
-* glob: ^7.2.0
-* Node.JS V16.13.2 (Minimum)
+* discord.js: ^13.7.0
+* dotenv: ^16.0.1
+* wokcommands: ^1.5.3
+* Node.JS V18.2.0 (Minimum)
 
 ## Installation
 Coming soon
