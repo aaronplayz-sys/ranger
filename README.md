@@ -11,10 +11,15 @@
 An open source discord bot written in NodeJS. HOWEVER, in the bare bones branch it only contains a more stripped down code. This branch mainly serves to enchance the bots core.
 
 ## Changelog:
+May 25 2022
 * NOTICE| 100% change in file structure
 * NOTICE| Still NodeJS, but uses TypeScript
 * +| Supports both slash (/) and legacy commands (!)
 * +| ping command is provided as a starting point
+
+May 29 2022
+* +| Can now connect to MongoDB (database)
+* +| .env is added, the file env.txt MUST BE RENAME TO .env
 
 ***
 ## Status: Development Stage
