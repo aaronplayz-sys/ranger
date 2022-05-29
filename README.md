@@ -20,7 +20,7 @@ An open source discord bot written in NodeJS(TypeScript).
 * Node.JS V18.2.0 (Minimum)
 
 ## Installation
-Coming soon
+[Wiki](https://github.com/aaronplayz-sys/ranger/wiki/How-to-install-ranger-(works-in-all-branches))
 
 ## Contributing
 Pull requests are welcome. After all, this is why the bot is open source! Please do make sure to test your changes before requesting!
