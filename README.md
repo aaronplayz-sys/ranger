@@ -34,7 +34,7 @@ May 29 2022
 [Creating commands](https://docs.wornoffkeys.com/commands/ping-pong-command-example)
 
 ## Installation
-Coming soon
+[Wiki](https://github.com/aaronplayz-sys/ranger/wiki/How-to-install-ranger-(works-in-all-branches))
 
 ## Contributing
 Pull requests are welcome. After all, this is why the bot is open source! Please do make sure to test your changes before requesting!
