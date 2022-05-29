@@ -22,7 +22,7 @@ May 29 2022
 * +| .env is added, the file env.txt MUST BE RENAME TO .env
 
 ***
-## Status: Development Stage
+## Status: Development Stage (Stable)
 ***
 ## Required dependencies
 * discord.js: ^13.7.0
