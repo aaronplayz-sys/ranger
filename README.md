@@ -25,7 +25,7 @@ June 6 2022
 * +| Added features (aka event listeners) & folders to go with it. Main branch will have files in it. Empty for Bare Bones
 
 ***
-## Status: Development Stage
+## Status: Development Stage (Stable)
 ***
 ## Required dependencies
 * discord.js: ^13.7.0
@@ -37,7 +37,7 @@ June 6 2022
 [Creating commands](https://docs.wornoffkeys.com/commands/ping-pong-command-example)
 
 ## Installation
-Coming soon
+[Wiki](https://github.com/aaronplayz-sys/ranger/wiki/How-to-install-ranger-(works-in-all-branches))
 
 ## Contributing
 Pull requests are welcome. After all, this is why the bot is open source! Please do make sure to test your changes before requesting!
