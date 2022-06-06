@@ -21,6 +21,7 @@ client.on('ready', () => {
 
     new WOKCommands(client, {
         commandDir: path.join(__dirname, 'commands'),
+        featureDir: path.join(__dirname, 'features'),
         typeScript: true,
         testServers: ['YOUR GUILD ID HERE'],
         botOwners: ['YOUR DISCORD USER ID HERE (ex. 123456789)'],

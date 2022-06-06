@@ -21,6 +21,9 @@ May 29 2022
 * +| Can now connect to MongoDB (database)
 * +| .env is added, the file env.txt MUST BE RENAME TO .env
 
+June 6 2022
+* +| Added features (aka event listeners) & folders to go with it. Main branch will have files in it. Empty for Bare Bones
+
 ***
 ## Status: Development Stage
 ***
