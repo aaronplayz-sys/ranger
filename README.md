@@ -11,7 +11,7 @@
 An open source discord bot written in NodeJS(TypeScript).
 
 ***
-## Status: Testing (in prep for Version 1 release)
+## Status: RELEASED | VERSION 1
 ***
 ## Required dependencies
 * discord.js: ^13.7.0
@@ -19,6 +19,9 @@ An open source discord bot written in NodeJS(TypeScript).
 * wokcommands: ^1.5.3
 * Node.JS V18.2.0 (Minimum)
 * mongoose: ^6.3.4
+
+## Version 1 notes:
+Only welcomer (event listener), kick, and ban commands are included in this version. More commands & maybe event listeners will be added later on.
 
 ## Installation
 [Wiki](https://github.com/aaronplayz-sys/ranger/wiki/How-to-install-ranger-(works-in-all-branches))
