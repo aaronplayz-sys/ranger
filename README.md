@@ -25,10 +25,16 @@ Only welcomer (event listener), kick, and ban commands are included in this vers
 
 ## Installation
 [Wiki](https://github.com/aaronplayz-sys/ranger/wiki/How-to-install-ranger-(works-in-all-branches))
+
 (Video coming soon)
 
 ## Contributing
 Pull requests are welcome. After all, this is why the bot is open source! Please do make sure to test your changes before requesting!
+
+## Support
+Feel free to ping me in my discord server!
+
+[Discord invite link](https://discord.gg/5F43ycHZVc)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
