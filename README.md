@@ -11,30 +11,35 @@
 An open source discord bot written in NodeJS(TypeScript).
 
 ***
-## Status: RELEASED | VERSION 1
+## Status: RELEASED | VERSION 2
 ***
-## Required dependencies
+
+## Changelog:
+| New command | addrole (Auto Roles) | Allows you to create a dropdown menu and allow your members to select roles they want! [Learn how to set it up](https://github.com/aaronplayz-sys/ranger/wiki/Auto-roles-(addrole-command))|
+| -- | -- | -- |
+| New command | send | Send messsages as your bot! Goes along with the addrole command. |
+| New command | status | Allows you to set the bot's status (Playing status only). |
+| New command | purge | Clears many messages at once! Default value is 10 if a number isn't specified |
+
+## Required dependencies:
 * discord.js: ^13.7.0
 * dotenv: ^16.0.1
 * wokcommands: ^1.5.3
 * Node.JS V18.2.0 (Minimum)
 * mongoose: ^6.3.4
 
-## Version 1 notes:
-Only welcomer (event listener), kick, and ban commands are included in this version. More commands & maybe event listeners will be added later on.
-
-## Installation
+## Installation:
 [Wiki](https://github.com/aaronplayz-sys/ranger/wiki/How-to-install-ranger-(works-in-all-branches))
 
 (Video coming soon)
 
-## Contributing
+## Contributing:
 Pull requests are welcome. After all, this is why the bot is open source! Please do make sure to test your changes before requesting!
 
-## Support
+## Support:
 Feel free to ping me in my discord server!
 
 [Discord invite link](https://discord.gg/5F43ycHZVc)
 
-## License
+### License
 [MIT](https://choosealicense.com/licenses/mit/)
