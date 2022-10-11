@@ -11,7 +11,7 @@
 An open source discord bot written in NodeJS(TypeScript).
 
 ***
-## Status: RELEASED | VERSION 2
+## Status: RELEASED | VERSION 2 (In the process of rewiting code to DiscordJS v14)
 ***
 
 ## Changelog:
