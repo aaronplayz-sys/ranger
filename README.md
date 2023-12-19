@@ -11,15 +11,11 @@
 An open source discord bot written in NodeJS(TypeScript).
 
 ***
-## Status: RELEASED | VERSION 2 (In the process of rewiting code to DiscordJS v14)
+## Status: Abandoned, for now
 ***
 
 ## Changelog:
-| New command | addrole (Auto Roles) | Allows you to create a dropdown menu and allow your members to select roles they want! [Learn how to set it up](https://github.com/aaronplayz-sys/ranger/wiki/Auto-roles-(addrole-command))|
-| -- | -- | -- |
-| New command | send | Send messsages as your bot! Goes along with the addrole command. |
-| New command | status | Allows you to set the bot's status (Playing status only). |
-| New command | purge | Clears many messages at once! Default value is 10 if a number isn't specified |
+No new changes, may work on again in the future.
 
 ## Required dependencies:
 * discord.js: ^13.7.0
